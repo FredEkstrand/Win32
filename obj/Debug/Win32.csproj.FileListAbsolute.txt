@@ -1,0 +1,7 @@
+C:\SoftwareProjects\DropDownControl2\Win32\obj\Debug\Win32.csprojResolveAssemblyReference.cache
+C:\SoftwareProjects\DropDownControl2\Win32\bin\Debug\Win32.dll
+C:\SoftwareProjects\DropDownControl2\Win32\bin\Debug\Win32.pdb
+C:\SoftwareProjects\DropDownControl2\Win32\bin\Debug\System.Net.Http.dll
+C:\SoftwareProjects\DropDownControl2\Win32\bin\Debug\System.Net.Http.xml
+C:\SoftwareProjects\DropDownControl2\Win32\obj\Debug\Win32.dll
+C:\SoftwareProjects\DropDownControl2\Win32\obj\Debug\Win32.pdb
